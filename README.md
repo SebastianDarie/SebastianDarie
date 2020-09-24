@@ -1,6 +1,6 @@
 ### Hi there 👋
-- 🔭 I’m currently working on The Odin Project
-- 🌱 I’m currently learning JS, React, Node
+- 🔭 I’m currently working on The Odin Project and Fullstackopen
+- 🌱 I’m currently learning JS, React, Node, Express, FireBase and MongoDB
 - 👯 I’m looking to collaborate on MERN Stack
 - 🤔 I’m looking for help with the MERN Stack, WebDesign
 - 💬 Ask me about anything I guess
