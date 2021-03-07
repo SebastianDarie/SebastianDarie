@@ -10,5 +10,5 @@
 - ⚡ Fun fact: Crocodiles are the ultimate survivors.
 
 
-[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianDarie&show_icons=true&theme=tokyonight)]
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianDarie&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDarie&theme=tokyonight)
