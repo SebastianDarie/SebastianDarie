@@ -1,3 +1,5 @@
+![](https://visitor-badge.laobi.icu/badge?page_id=SebastianDarie.SebastianDarie)
+[![Github](https://img.shields.io/github/followers/SebastianDarie?label=Follow&style=social)](https://github.com/SebastianDarie)
 ### Hi there 👋
 - 🔭 I’m currently working on The Odin Project and Fullstackopen
 - 🌱 I’m currently learning JS, React, Node, Express, FireBase and MongoDB
@@ -8,4 +10,5 @@
 - ⚡ Fun fact: Crocodiles are the ultimate survivors.
 
 
-[![Contribution Stats](https://github-contribution-stats.vercel.app/api/?username=SebastianDarie)](https://github.com/LordDashMe/github-contribution-stats/)
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=SebastianDarie&show_icons=true&theme=tokyonight)]
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SebastianDarie&theme=tokyonight)
