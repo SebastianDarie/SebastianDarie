@@ -1,9 +1,7 @@
 ### Hi there 👋
 - 🔭 I’m currently working on The Odin Project and learning new technologies
 - 🌱 I’m currently learning TS, Next.js, Node, GraphQL and PostgreSQL
-- 👯 I’m looking to collaborate on the PERN Stack
-- 🤔 I’m looking for help with the PERN Stack, UI/UX, WebDesign
-- 💬 Ask me about anything related React and GraphQL ecosystems
+- 🤔 I’m looking for help with UI/UX, WebDesign
 - 📫 How to reach me: sebastiandarie@protonmail.com
 - ⚡ Fun fact: Angular is the worst JS framework
 
